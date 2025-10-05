@@ -1,0 +1,4 @@
+body { font-family: Arial, sans-serif; }
+input { padding: 6px 8px; width: 250px; }
+button { padding: 8px 12px; cursor: pointer; }
+.user-form div { margin-bottom: 6px; }
